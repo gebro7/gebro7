@@ -22,7 +22,7 @@
 - 📍 Located in St. Pete, FL.
 - ☕ Addicted to UX.
 
-### 💖 What I've Built
+### 💖 What I've Built & Been Apart Of
 
 #### 🎬 [NextClip](https://nextclip.net)
 **Creator Marketing Platform**<br>

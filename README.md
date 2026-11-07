@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gabriel-kerkinni"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="22" align="center" alt="LinkedIn"> LinkedIn</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:G.kerkinni@gmail.com"><img src="https://cdn.simpleicons.org/gmail" height="22" align="center" alt="Email"> Email</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://nextclip.net"><img src="nextclip-logo.png" height="22" align="center" alt="NextClip"> NextClip</a>
+  <a href="https://nextclip.net"><img src="nextclip-logo.png" height="32" align="center" alt="NextClip"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/gabriel-kerkinni"><img src="linkedin.webp" height="32" align="center" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:G.kerkinni@gmail.com"><img src="gmail.webp" height="32" align="center" alt="Email"></a>
 </p>
 
 

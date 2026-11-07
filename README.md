@@ -5,13 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://nextclip.net"><img src="nextclip-logo.png" height="32" align="center" alt="NextClip"></a>
+  <a href="https://linkedin.com/in/gabriel-kerkinni"><img src="linkedin.webp" height="52" align="center" alt="LinkedIn"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/gabriel-kerkinni"><img src="linkedin.webp" height="32" align="center" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/gabriel.kerkinni/"><img src="instagram.png" height="46" align="center" alt="Instagram"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:G.kerkinni@gmail.com"><img src="gmail.webp" height="32" align="center" alt="Email"></a>
+  <a href="mailto:G.kerkinni@gmail.com"><img src="gmail.webp" height="42" align="center" alt="Email"></a>
 </p>
-
 
 ---
 

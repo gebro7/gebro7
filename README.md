@@ -33,7 +33,7 @@ Helps brands build and manage teams of creators, track how their content perform
 Helps people track what they eat, follow their progress, and get personalized guidance from an AI chat and voice assistant.
 
 #### 🧠 [OpGen.ai](https://opgen.ai)
-**AI Game Intelligence**<br>
+**AI Gaming Companion**<br>
 Helps players understand complex strategy games through conversational AI and data-driven recommendations, starting with Hearthstone.
 
 #### 💎 [TangibleNFTs](https://wax.atomichub.io/explorer/collection/wax-mainnet/tangiblenfts?analytics_period=all&analytics_page=1#accounts)

@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gabriel 👋</h1>
 <p align="center">
   <b>Full-Stack Software Engineer · Founder of <a href="https://nextclip.net">NextClip</a></b><br>
-  I love building and shipping high utility innovative products, mostly full-stack web and iOS apps.
+  I love building and shipping. Mostly working on full-stack web and iOS apps.
 </p>
 
 <p align="center">
@@ -16,12 +16,13 @@
 
 ### 🙋 About Me
 
-- 🚀 Building **NextClip.net**, an all in one platform for brands to run everything from organic content to paid ads working with creators seamlessly.
+- 🚀 Currently Building **NextClip.net**, an all in one platform for brands to run everything from organic content to paid ads working with creators seamlessly.
 - 💡 BIG interest in the creator economy and building consumer & B2B web and mobile apps surrounding it.
 - 🛠️ Been shipping real products since 2021
 - 📍 Located in St. Pete, FL
+-☕ Addicted to UX
 
-### 🚀 What I've Built
+### 💖 What I've Built
 
 #### 🎬 [NextClip](https://nextclip.net)
 **Creator Marketing Platform**<br>

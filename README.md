@@ -18,9 +18,9 @@
 
 - 🚀 Currently Building **NextClip.net**, an all in one platform for brands to run everything from organic content to paid ads working with creators seamlessly.
 - 💡 BIG interest in the creator economy and building consumer & B2B web and mobile apps surrounding it.
-- 🛠️ Been shipping real products since 2021
-- 📍 Located in St. Pete, FL
--☕ Addicted to UX
+- 🛠️ Been shipping real products since 2021.
+- 📍 Located in St. Pete, FL.
+- ☕ Addicted to UX.
 
 ### 💖 What I've Built
 

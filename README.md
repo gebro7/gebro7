@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gabriel 👋</h1>
 <p align="center">
   <b>Full-Stack Software Engineer · Founder of <a href="https://nextclip.net">NextClip</a></b><br>
-  I build stuff people actually use, mostly full-stack web and iOS apps.
+  I love building and shipping high utility innovative products, mostly full-stack web and iOS apps.
 </p>
 
 <p align="center">

@@ -16,8 +16,10 @@
 
 ### 🙋 About Me
 
-- 🚀 Building **NextClip** solo: the web app, the iOS app, the ad integrations, the payouts, all of it
-- 🤖 Been doing agentic development every day for over a year, it's how I ship fast on my own
+- 🛠️ Been shipping real products since 2021, starting with an NFT project that did $15K+ in sales
+- 🚀 Right now I'm building **NextClip** solo: Next.js web app, SwiftUI app on the App Store, TikTok + Meta ad integrations, and automated Stripe payouts
+- 🧠 I like the hard parts: speeding up databases, wiring up messy third-party APIs, and getting LLMs to answer from real data instead of guessing
+- 🤖 Been doing agentic development every day for over a year, it's how I ship this much on my own
 - 💼 **Looking for full-stack or AI engineering roles**
 - 📍 St. Pete, FL
 
@@ -26,9 +28,9 @@
 | Project | What it is | Highlights |
 |---|---|---|
 | 🎬 **[NextClip](https://nextclip.net)** | Brands hire creators, see how every post does, and run the best videos as ads | TikTok + Meta ads built in · creators get paid automatically through Stripe · cut page size 30x |
-| 🧠 **[OpGen.ai](https://opgen.ai)** | AI agents that actually reason through strategy games | SQL + RAG hybrid · routes each question to the right kind of lookup |
 | 🥗 **[Healthy Pantry](https://healthypantry.app)** | Nutrition app with a chat and voice assistant | Did the whole UI/UX · the assistant knows your own food logs |
-| 💎 **TangibleNFTs** | NFTs tied to real products you could actually hold | $15K+ in sales · built the React site + marketplace integration |
+| 🧠 **[OpGen.ai](https://opgen.ai)** | AI agents that actually reason through strategy games | SQL + RAG hybrid · routes each question to the right kind of lookup |
+| 💎 **[TangibleNFTs](https://wax.atomichub.io/explorer/collection/wax-mainnet/tangiblenfts?analytics_period=all&analytics_page=1#accounts)** | NFTs tied to real products you could actually hold | $15K+ in sales · built the React site + marketplace integration |
 
 ### 🧰 Tech Stack
 

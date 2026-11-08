@@ -13,7 +13,6 @@
 </p>
 
 ### 🙋 About Me
-
 - 🚀 Currently Building **NextClip.net**, an all in one platform for brands to run everything from organic content to paid ads working with creators seamlessly.
 - 💡 BIG interest in the creator economy and building consumer & B2B web and mobile apps surrounding it.
 - 📍 Located in St. Pete, FL.
@@ -22,12 +21,9 @@
 ### 💖 What I've Built & Been Apart Of
 #### 🎬 [NextClip](https://nextclip.net)
 **Creator Marketing Platform**<br>
-
 #### 🥗 [Healthy Pantry](https://healthypantry.app)
 **Nutrition App**<br>
-
 #### 🧠 [OpGen.ai](https://opgen.ai)
 **AI Gaming Companion**<br>
-
 #### 💎 [TangibleNFTs](https://wax.atomichub.io/explorer/collection/wax-mainnet/tangiblenfts?analytics_period=all&analytics_page=1#accounts)
 **Physically-Backed NFT Collectibles**<br>
